@@ -250,6 +250,11 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	.live-code {
+		display: flex;
+		justify-content: space-evenly;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-family: Raleway, Helvetica, sans-serif;
